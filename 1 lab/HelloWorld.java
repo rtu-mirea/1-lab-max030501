@@ -17,7 +17,7 @@ class Student {
 	public boolean isAlive;
 	
 	public String toString() {
-		return this.name + "," + this.age + "y.o."; 
+		return this.name + ", " + this.age + "y.o."; 
 	}
 
 	
