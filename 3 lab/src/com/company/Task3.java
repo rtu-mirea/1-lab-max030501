@@ -29,7 +29,7 @@ public class Task3 {
                 if (res == "")
                     res = text1.replaceFirst(matcher.group(), matcher.group(1));
                 else
-                    res = res.replaceAll(matcher.group(), matcher.group(1));
+                    res = res.replaceFirst(matcher.group(), matcher.group(1));
             }
             while (matcher.find());
         }
