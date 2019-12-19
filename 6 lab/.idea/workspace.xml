@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4adbe452-c95b-419a-bb3b-1d4402c68fa2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UuP4ePYy0fvFF2hyv5m3FuLrqq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="laba6" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4adbe452-c95b-419a-bb3b-1d4402c68fa2" name="Default Changelist" comment="" />
+      <created>1576203316377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576203316377</updated>
+      <workItem from="1576203324704" duration="610000" />
+      <workItem from="1576207033842" duration="3004000" />
+      <workItem from="1576422015530" duration="19001000" />
+      <workItem from="1576496951521" duration="3824000" />
+      <workItem from="1576531877872" duration="10832000" />
+      <workItem from="1576578957784" duration="1582000" />
+      <workItem from="1576669502859" duration="2537000" />
+      <workItem from="1576704459715" duration="9315000" />
+      <workItem from="1576755298158" duration="5874000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1201" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576440384676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1201" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576440384676" />
+    <state x="1245" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1576536143337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="232" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576536143337" />
+    <state x="1236" y="408" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576706736533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1236" y="408" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1576706736533" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1576669587601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576669587601" />
+    <state width="938" height="345" key="GridCell.Tab.0.bottom" timestamp="1576761179553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576761179553" />
+    <state width="938" height="345" key="GridCell.Tab.0.center" timestamp="1576761179552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="345" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576761179552" />
+    <state width="938" height="345" key="GridCell.Tab.0.left" timestamp="1576761179552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="345" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576761179552" />
+    <state width="938" height="345" key="GridCell.Tab.0.right" timestamp="1576761179553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="345" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576761179553" />
+    <state width="938" height="345" key="GridCell.Tab.1.bottom" timestamp="1576761179553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576761179553" />
+    <state width="938" height="345" key="GridCell.Tab.1.center" timestamp="1576761179553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="345" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576761179553" />
+    <state width="938" height="345" key="GridCell.Tab.1.left" timestamp="1576761179553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="345" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576761179553" />
+    <state width="938" height="345" key="GridCell.Tab.1.right" timestamp="1576761179553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="345" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576761179553" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1576669501671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576669501671" />
+    <state x="702" y="138" key="refactoring.ChangeSignatureDialog" timestamp="1576580077171">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="138" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576580077171" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1576499002633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576499002633" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1576709690671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576709690671" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/Map.java</url>
+          <line>52</line>
+          <properties class="com.company.Map" method="getNodes">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/Map.java</url>
+          <line>96</line>
+          <properties class="com.company.Map" method="generatePath">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/UserWindow.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/AdminWindow.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="path[5]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
